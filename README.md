@@ -1,0 +1,1 @@
+This is a Project on Dicee Game where 2 players can check who wins the Dicee Roll. It is made purely with HTML,CSS and JavaScript only.
